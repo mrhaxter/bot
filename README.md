@@ -1,9 +1,9 @@
-# Zombi Bot v12
-# If u have problem in BOT
-# Contact me ?
-# Email : nedjworgan@gmail.com
-# ICQ: 744289868
-# My Facebook Page: https://www.facebook.com/viper1337official/
+# Wordpress hacker
+# If u have problem in bot
+# contact me
+# Email : bipinrai.rai123@gmail.com
+# Website:- https://darkwebsolutions.com
+
 
 Install Xammp for run Other Tools :)
 Install Python 3.0 for run Checker Valid Apple
