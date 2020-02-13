@@ -38,10 +38,10 @@ def logo():
    / / / _ \| '_ ` _ \| '_ \| | |  _ < / _ \| __|   \ \/ /  | | / / 
   / /_| (_) | | | | | | |_) | | | |_) | (_) | |_     \  /   | |/ /_ 
  /_____\___/|_| |_| |_|_.__/|_| |____/ \___/ \__|     \/    |_|____|                                                                      
- Zombi Bot V12    |   Ultra Priv8 Bot    | |  Code by Viper1337                           
+ Zombi Bot V12    |   Ultra Priv8 Bot    | |  Code by MRHAXTER                           
                                              
                       
- [+] ICQ: 744289868
+ my website:- https://darkwebsolutions.com
 
 
  [+] 1. Run Bot Zombi Bot v12 [ New ]
